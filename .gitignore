@@ -13,6 +13,8 @@ buildNumber.properties
 */target/site/jacoco
 actions-runner/
 _work/
+target/jacoco.exec
+target/site/jacoco/jacoco.xml
 
 # Eclipse m2e generated files
 # Eclipse Core
